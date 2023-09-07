@@ -5,3 +5,5 @@ Presenting ShoppersBay, an fully responsive e-commerce website that allows you t
 4. Contact - consists of address and contact details, a scrllable google map
 5. Cart - showcases items selected by the user in a tabular form(not yet functional)
 *** The site is responsite for all media types . 4 media breakpoints have been used***
+
+***THE SITE IS DEPLOYED USING GITHUB PAGES***
